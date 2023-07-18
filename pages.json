@@ -1,0 +1,33 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "浩客官方uni-app示例小程序",
+				"mp-weixin": {
+					"usingComponents": {
+						"howxm-widget": "plugin://howxm-plugin/howxm-widget"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/profile/index",
+			"style": {
+				"navigationBarTitleText": "浩客官方uni-app示例小程序",
+				"mp-weixin": {
+					"usingComponents": {
+						"howxm-widget": "plugin://howxm-plugin/howxm-widget"
+					}
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "浩客官方uni-app示例小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
