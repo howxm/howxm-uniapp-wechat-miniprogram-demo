@@ -1,6 +1,7 @@
 # howxm-uniapp-wechat-miniprogram-demo
 * 这是浩客官方提供的uniapp微信小程序demo，包含了在uniapp这种集成浩客小程序插件的基本使用方法。
 * 详细文档请参考 https://howxm.com/help/articles/x-sdk-uniapp
+  ![demo.png](demo.png)
 
 # 使用
 1. 下载代码库，并在HBuilderX中打开
