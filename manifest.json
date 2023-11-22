@@ -57,9 +57,8 @@
         "usingComponents" : true,
         "plugins":{
             "howxm-plugin": {
-                "version": "1.19.2", // 在`https://howxm.com/help/articles/x-sdk-miniapp`获取最新插件版本
-                "provider": "wx37a782d0c8107a02",
-                "export": "index.js"
+                "version": "2.0.1", // 在`https://howxm.com/help/articles/x-sdk-miniapp`获取最新插件版本
+                "provider": "wx37a782d0c8107a02"
             }
         }
     },
